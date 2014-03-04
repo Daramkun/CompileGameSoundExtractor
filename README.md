@@ -1,4 +1,7 @@
 CompileGameSoundExtractor
 =========================
 
-Compile Game(Gense series, ...) Sound file Extractor
+Compile Game(Gense series, ...) Sound file Extractor.
+
+Original code by:
+http://dev.naver.com/projects/cse
